@@ -1,0 +1,11 @@
+4e2d38ede977f88763ff2e8fa101da8b *DESCRIPTION
+98ed102339eb046683a4ce6458ee7a90 *LICENSE
+1c75512181d4755f0870689285567465 *NAMESPACE
+cda254152dfb9d0a6a4ddc32e9302b57 *R/functions.R
+ad10965a5525b130b65bba63ea72f05e *data/example_data.rda
+690f1f4da24921641a1f567668cfd6c5 *man/boot.can.Rd
+43dc92b5053562ed0ec25e66039eb5fb *man/example_data.Rd
+3665e2b3ef2301f9e2e745b67d583af2 *man/rqcan.Rd
+9c15d33bf55937467b17d4bc88fb4c7a *man/rqcan1.Rd
+a87292e5660f6a2bc0960cae3d617551 *man/rqcanon-package.Rd
+efbd4e5b3f531fbaee3ca381869b8958 *man/summary.rqcan.Rd

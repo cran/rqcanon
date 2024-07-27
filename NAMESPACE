@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "IQR", "cov", "quantile", "runif")
+S3method(summary,rqcan)
+export(rqcan)
+export(summary.rqcan)
+export(boot.can)
+export(rqcan1)
